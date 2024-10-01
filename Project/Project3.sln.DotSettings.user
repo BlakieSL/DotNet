@@ -1,0 +1,30 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=75B62389_002D9836_002D4A64_002DA456_002DF96B550B5FB3/@EntryIndexedValue">Project3.Tests</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestTemplateMapping/=xUnit/@EntryIndexedValue">33ff99d8-b1ad-4ed5-a4fd-376b97c2c841</s:String>
+	<s:Boolean x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/ShowAdvancedOptions/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a53c8120_002D05ed_002D42ad_002D9ff5_002D2d0a1d7837e3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddIndividual_ShouldAddIndividual" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::13B130C0-0179-439F-BE9A-015E9AA85175::net8.0::Project3.Tests.ContractTests.CreateContract_ShouldCreateContract&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::13B130C0-0179-439F-BE9A-015E9AA85175::net8.0::Project3.Tests.ContractTests.DeleteContract_ShouldDeleteContract&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::13B130C0-0179-439F-BE9A-015E9AA85175::net8.0::Project3.Tests.ContractTests.MakePayment_ShouldChangeContractToPaid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::13B130C0-0179-439F-BE9A-015E9AA85175::net8.0::Project3.Tests.ContractTests.CreateContract_ShouldThrowNotFoundExceptionForClient&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::13B130C0-0179-439F-BE9A-015E9AA85175::net8.0::Project3.Tests.ContractTests.CreateContract_ShouldThrowNotFoundExceptionForSoftwareSystem&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::13B130C0-0179-439F-BE9A-015E9AA85175::net8.0::Project3.Tests.ContractTests.CreateContract_ShouldThrowValidationExceptionForTime&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=af4d4318_002D4674_002D4f60_002Db6ca_002D36d39bc16c40/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateContract_ShouldThrowValidationExceptionForTime" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::13B130C0-0179-439F-BE9A-015E9AA85175::net8.0::Project3.Tests.ContractTests.CreateContract_ShouldThrowValidationExceptionForTime&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::13B130C0-0179-439F-BE9A-015E9AA85175::net8.0::Project3.Tests.ContractTests.CreateContract_ShouldThrowValidationExceptionForActiveContract&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::13B130C0-0179-439F-BE9A-015E9AA85175::net8.0::Project3.Tests.ContractTests.DeleteContract_ShouldThrowNotFoundException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::13B130C0-0179-439F-BE9A-015E9AA85175::net8.0::Project3.Tests.ContractTests.MakePayment_ShouldThrowNotFoundException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::13B130C0-0179-439F-BE9A-015E9AA85175::net8.0::Project3.Tests.ContractTests.MakePayment_ShouldThrowPaymentExceptionForInvoiceExpired&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::13B130C0-0179-439F-BE9A-015E9AA85175::net8.0::Project3.Tests.ContractTests.MakePayment_ShouldThrowPaymentExceptionForNotEnoughPaid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::13B130C0-0179-439F-BE9A-015E9AA85175::net8.0::Project3.Tests.RevenueTests.CalculateRevenue_ShouldReturnRevenue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::13B130C0-0179-439F-BE9A-015E9AA85175::net8.0::Project3.Tests.RevenueTests.CalculatePredictedRevenue_ShouldReturnPredictedRevenue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::13B130C0-0179-439F-BE9A-015E9AA85175::net8.0::Project3.Tests.RevenueTests.CalculateRevenue_ShouldThrowNotFoundExceptionForCompany&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::13B130C0-0179-439F-BE9A-015E9AA85175::net8.0::Project3.Tests.RevenueTests.CalculateRevenue_ShouldThrowNotFoundExceptionForSoftwareSystem&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::13B130C0-0179-439F-BE9A-015E9AA85175::net8.0::Project3.Tests.RevenueTests.Exchange_ShouldExchange&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::13B130C0-0179-439F-BE9A-015E9AA85175::net8.0::Project3.Tests.RevenueTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
