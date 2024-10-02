@@ -8,4 +8,5 @@ public class Subscription
     public DateTime EndTime { get; set; }
     public decimal Price { get; set; }
     public ICollection<Sale> Sales { get; set; }
+    public ICollection<Payment> Payments { get; set; }
 }

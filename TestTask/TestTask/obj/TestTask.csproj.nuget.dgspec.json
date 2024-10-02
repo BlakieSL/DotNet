@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitProjects\\APBD-s28250\\TestTask\\TestTask\\TestTask.csproj": {}
+    "C:\\CodingProjects\\dotNet\\TestTask\\TestTask\\TestTask.csproj": {}
   },
   "projects": {
-    "C:\\GitProjects\\APBD-s28250\\TestTask\\TestTask\\TestTask.csproj": {
+    "C:\\CodingProjects\\dotNet\\TestTask\\TestTask\\TestTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitProjects\\APBD-s28250\\TestTask\\TestTask\\TestTask.csproj",
+        "projectUniqueName": "C:\\CodingProjects\\dotNet\\TestTask\\TestTask\\TestTask.csproj",
         "projectName": "TestTask",
-        "projectPath": "C:\\GitProjects\\APBD-s28250\\TestTask\\TestTask\\TestTask.csproj",
+        "projectPath": "C:\\CodingProjects\\dotNet\\TestTask\\TestTask\\TestTask.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\GitProjects\\APBD-s28250\\TestTask\\TestTask\\obj\\",
+        "outputPath": "C:\\CodingProjects\\dotNet\\TestTask\\TestTask\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {

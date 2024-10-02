@@ -1,6 +1,6 @@
 ﻿namespace InterviewPreparation.Model;
 
-public class Pyament
+public class Payment
 {
     public int IdPayment { get; set; }
     public DateTime Date { get; set; }

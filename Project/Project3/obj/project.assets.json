@@ -4916,11 +4916,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitProjects\\APBD-s28250\\Project3\\Project3\\Project3.csproj",
+      "projectUniqueName": "C:\\CodingProjects\\dotNet\\Project\\Project3\\Project3.csproj",
       "projectName": "Project3",
-      "projectPath": "C:\\GitProjects\\APBD-s28250\\Project3\\Project3\\Project3.csproj",
+      "projectPath": "C:\\CodingProjects\\dotNet\\Project\\Project3\\Project3.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\GitProjects\\APBD-s28250\\Project3\\Project3\\obj\\",
+      "outputPath": "C:\\CodingProjects\\dotNet\\Project\\Project3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
