@@ -1,3 +1,6 @@
+using InterviewPreparation.Context;
+using Microsoft.EntityFrameworkCore;
+
 namespace InterviewPreparation;
 
 public class Program
@@ -6,6 +9,9 @@ public class Program
     {
         var builder = WebApplication.CreateBuilder(args);
 
+        builder.Services.AddDbContext<MyDbContext>(options =>
+            options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+        
         builder.Services.AddControllers();
         builder.Services.AddEndpointsApiExplorer();
         builder.Services.AddSwaggerGen();

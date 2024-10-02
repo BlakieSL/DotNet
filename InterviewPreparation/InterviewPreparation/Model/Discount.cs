@@ -8,5 +8,4 @@ public class Discount
     public DateTime DateTo { get; set; }
     public Client Client { get; set; }
     public int IdClient { get; set; }
-    public ICollection<Sale> Sales { get; set; }
 }
